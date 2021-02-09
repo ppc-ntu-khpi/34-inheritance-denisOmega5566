@@ -21,8 +21,8 @@ public class Animal {
     public Animal() { 
 
         name="generic animal";
-        weight=25;
-        age=2;
+        weight=15;
+        age=4;
     }
 
 
