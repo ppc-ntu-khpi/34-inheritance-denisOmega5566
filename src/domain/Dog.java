@@ -36,7 +36,7 @@ public class Dog extends Predator {
  */
     public Dog() { 
 
-        this("Jack", "Irish wolfhound", 60, 4);
+        this("BILL", "tramp", 45, 4);
     }
     
 
@@ -49,7 +49,7 @@ public class Dog extends Predator {
  */
     public Dog(String name) { 
 
-        this(name, "Irish wolfhound", 60, 4);
+        this(name, "tramp", 60, 4);
     }
 
 
